@@ -3,7 +3,7 @@ Contributors: Turn  On Social
 Tags: mail, swift mailer
 Requires at least: 3.0
 Tested up to: 4.1.1
-Stable tag: 5.4.0
+Stable tag: 5.4.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -53,6 +53,9 @@ Great! Please create a message in the Support forum https://wordpress.org/suppor
 1. Sample code for application
 
 == Changelog ==
+= 5.4.1 =
+* Updated to Swift Mailer library v5.4.1
+
 = 5.4.0 =
 * Updated to PSR-1 compliant code
 * Updated to Swift Mailer library v5.4.0
@@ -61,4 +64,4 @@ Great! Please create a message in the Support forum https://wordpress.org/suppor
 * Swift Mailer library v4.3.0
 
 == Upgrade Notice ==
-Please update to the latest version. This release upgrades the Swift Mailer library to v5.4.0 and ensure compliant PHP standards. No code changes are required!
+Please update to the latest version. This release upgrades the Swift Mailer library to v5.4.1 and ensure compliant PHP standards. No code changes are required!
